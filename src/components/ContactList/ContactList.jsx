@@ -1,4 +1,3 @@
-// components/ContactList/ContactList.jsx
 import { useSelector, useDispatch } from "react-redux";
 import { deleteContact } from "../../redux/contactsOps";
 import {
